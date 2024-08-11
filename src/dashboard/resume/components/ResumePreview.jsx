@@ -31,4 +31,4 @@ function ResumePreview() {
     )
 }
 
-export default ResumePreview
+export default ResumePreview;
